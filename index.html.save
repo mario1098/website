@@ -3,7 +3,7 @@
     Titulo
    </head>
    <body>
-    <b>Hello world</b>
-    <img src="images/breaching_whale.jpg" />
+    Hello world
+   <img src="images/breaching_whale.jpg" />
    </body>
 </html>
